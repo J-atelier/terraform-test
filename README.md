@@ -1,1 +1,1 @@
-# terraform-test
+This is a repository initialized by G123 template. Please refer the documentation the following configuration.
